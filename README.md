@@ -12,12 +12,11 @@
 
 Search google on: [Selenium maven dependency](https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java).
 
-Search google on: Selenium maven dependency
-   https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java
-Search google on: Cucumber java maven dependency
-https://mvnrepository.com/artifact/io.cucumber/cucumber-java
-Search google on: Cucumber TestNG maven dependency
-https://mvnrepository.com/artifact/io.cucumber/cucumber-testng
+Search google on: [Cucumber java maven dependency](https://mvnrepository.com/artifact/io.cucumber/cucumber-java).
+
+Search google on: [Cucumber TestNG maven dependency](https://mvnrepository.com/artifact/io.cucumber/cucumber-testng).
+
+
 
 
 
