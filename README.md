@@ -57,7 +57,7 @@ Search google on: [Cucumber TestNG maven dependency](https://mvnrepository.com/a
       - Written in Gherkin language and mirroring business scenarios using a readable and accessible language for everybody.
 
 2.stepDefinitions
-  - Can be found under: src/test/java/org.example/stepDefs
+  - Can be found under: src/test/java/org.example/stepDefintions
       - They are written in Java language and, they define what is supposed to be done for each of the steps from one business scenario described in the Feature file.
 
 ### Aside from these, we also have some other folders and/or files important to keep the project working:
