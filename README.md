@@ -59,13 +59,6 @@ Search google on: [Cucumber TestNG maven dependency](https://mvnrepository.com/a
 2.stepDefinitions
   - Can be found under: src/test/java/org.example/stepDefintions
       - They are written in Java language and, they define what is supposed to be done for each of the steps from one business scenario described in the Feature file.
-   
-## How to run tests
-1.There are 2 ways to run tests locally:
-
-2.Opening the feature from the features file:
-  - clicking in the play button (at left) of the feature or of the scenario. 
-  - Using the testRunner to run and generate the report needed(based on configurations).
 
 ### Aside from these, we also have some other folders and/or files important to keep the project working:
   - pom.xml
@@ -73,6 +66,14 @@ Search google on: [Cucumber TestNG maven dependency](https://mvnrepository.com/a
   - target
       - This is a folder which contains our code (after packaging it) and our reports
       - The report is located under the target file as "cucumber.html"
+   
+   
+## How to run tests
+1.There are 2 ways to run tests locally:
+
+2.Opening the feature from the features file:
+  - clicking in the play button (at left) of the feature or of the scenario. 
+  - Using the testRunner to run and generate the report needed(based on configurations).
 ## ScreenShots:
 <img width="827" alt="image" src="https://github.com/NouranAhmedk/FinalTestingProject/assets/105202599/81aa3098-f1f4-407b-a865-0b10bd20f538">
 <img width="737" alt="image" src="https://github.com/NouranAhmedk/FinalTestingProject/assets/105202599/af2711ce-6f8f-4f3a-95eb-5cbe125a7840">
